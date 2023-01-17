@@ -14,7 +14,7 @@ Tuesday, Thursday 7:00-8:20pm
 
 ## Location:
 
-Newel Simon Hall 3002
+Newell-Simon Hall 3002
 
 ## Quick Links:
 

@@ -38,19 +38,27 @@ Click each area to see a list of relevant papers
 
 ### Planning and Reasoning
 
+[Planning and Reasoning](16-890%20Robot%20Cognition%20for%20Manipulation%20491afe6c2471458f8748d1a11c058a71/Planning%20and%20Reasoning%20d0ce7479fbc24378be6d93cc81282280.md)
+
 - How can robots plan a series of actions to complete a task
 
 ### External Knowledge
+
+[External Knowledge](16-890%20Robot%20Cognition%20for%20Manipulation%20491afe6c2471458f8748d1a11c058a71/External%20Knowledge%20b66ebe98bcae493cb71100cb5f2410c8.md)
 
 - How can robots leverage cultural knowledge
 - How can robots leverage large offline datasets
 
 ### Prior Experiences
 
+[Prior Knowledge](16-890%20Robot%20Cognition%20for%20Manipulation%20491afe6c2471458f8748d1a11c058a71/Prior%20Knowledge%20ff64cbe244194593b1171a8f57b9a0f1.md)
+
 - How should robots learn from prior experiences
 - What does robot memory look like
 
 ### Communication
+
+[Communication](16-890%20Robot%20Cognition%20for%20Manipulation%20491afe6c2471458f8748d1a11c058a71/Communication%205b10ade7ec5f4a9381202f8394e97884.md)
 
 - How should robots effectively communicate with humans
 - How should robots effectively communicate with other robots

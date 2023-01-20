@@ -18,7 +18,7 @@ Newell-Simon Hall 3002
 
 ## Quick Links:
 
-[Piazza](https://piazza.com/class/lcz1qgk5w8m7im)
+[Piazza](https://piazza.com/cmu/spring2023/16890/home)
 
 ## Course Description:
 

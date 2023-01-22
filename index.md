@@ -44,7 +44,7 @@ Click each area to see a list of relevant papers
 
 ### External Knowledge
 
-[External Knowledge](16-890%20Robot%20Cognition%20for%20Manipulation%20491afe6c2471458f8748d1a11c058a71/External%20Knowledge%20b66ebe98bcae493cb71100cb5f2410c8.md)
+[External Knowledge](External_Knowledge.md)
 
 - How can robots leverage cultural knowledge
 - How can robots leverage large offline datasets

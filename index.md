@@ -58,7 +58,7 @@ Click each area to see a list of relevant papers
 
 ### Communication
 
-[Communication](16-890%20Robot%20Cognition%20for%20Manipulation%20491afe6c2471458f8748d1a11c058a71/Communication%205b10ade7ec5f4a9381202f8394e97884.md)
+[Communication](Communication.md)
 
 - How should robots effectively communicate with humans
 - How should robots effectively communicate with other robots

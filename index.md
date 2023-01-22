@@ -30,7 +30,7 @@ Click each area to see a list of relevant papers
 
 ### Representations and Abstractions
 
-[Representations and Abstractions](16-890%20Robot%20Cognition%20for%20Manipulation%20491afe6c2471458f8748d1a11c058a71/Representations%20and%20Abstractions%203b427b3a777f49e6947826225d826dfd.md)
+[Representations and Abstractions](Representations_and_Abstractions.md)
 
 - How should robots represent their environment
 - How should robots represent their actions and policies

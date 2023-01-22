@@ -51,7 +51,7 @@ Click each area to see a list of relevant papers
 
 ### Prior Experiences
 
-[Prior Knowledge](16-890%20Robot%20Cognition%20for%20Manipulation%20491afe6c2471458f8748d1a11c058a71/Prior%20Knowledge%20ff64cbe244194593b1171a8f57b9a0f1.md)
+[Prior Knowledge](Prior_Knowledge.md)
 
 - How should robots learn from prior experiences
 - What does robot memory look like

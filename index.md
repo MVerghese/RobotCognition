@@ -38,7 +38,7 @@ Click each area to see a list of relevant papers
 
 ### Planning and Reasoning
 
-[Planning and Reasoning](16-890%20Robot%20Cognition%20for%20Manipulation%20491afe6c2471458f8748d1a11c058a71/Planning%20and%20Reasoning%20d0ce7479fbc24378be6d93cc81282280.md)
+[Planning and Reasoning](Planning_and_Reasoning.md)
 
 - How can robots plan a series of actions to complete a task
 

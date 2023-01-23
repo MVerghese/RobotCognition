@@ -30,28 +30,45 @@ Click each area to see a list of relevant papers
 
 ### [Representations and Abstractions](Representations_and_Abstractions.md)
 
-- How should robots represent their environment
-- How should robots represent their actions and policies
-- What abstractions can robots make
+- How should robots represent their environment?
+- How should robots represent their actions and policies?
+- What abstractions can robots make?
+- This section includes:
+    - Symbolic environment representations
+    - Skill-based action representations
+    - Representation learning
 
 ### [Planning and Reasoning](Planning_and_Reasoning.md)
 
-- How can robots plan a series of actions to complete a task
+- How can robots plan a series of actions to complete a task?
+- This section includes:
+    - Task planning with skills
+    - Task planning with large language models
 
 ### [External Knowledge](External_Knowledge.md)
 
-- How can robots leverage cultural knowledge
-- How can robots leverage large offline datasets
+- How can robots leverage cultural knowledge?
+- How can robots leverage large offline datasets?
+- This section includes :
+    - Learning from large offline datasets
+    - Learning from demonstration
 
 ### [Prior Knowledge](Prior_Knowledge.md)
 
-- How should robots learn from prior experiences
-- What does robot memory look like
+- How should robots learn from prior experiences?
+- What does robot memory look like?
+- This section includes:
+    - Reinforcement learning
+    - Memory-based approaches
 
 ### [Communication](Communication.md)
 
-- How should robots effectively communicate with humans
-- How should robots effectively communicate with other robots
+- How should robots effectively communicate with humans?
+- How should robots effectively communicate with other robots?
+- This section includes:
+    - Online robot correction
+    - Multi-agent coordination
+    - Preference learning
 
 ## Topics of Interest:
 

@@ -1,4 +1,4 @@
-# Communication
+# Coordination
 
 ### ["No, to the Right" -- Online Language Corrections for Robotic Manipulation via Shared Autonomy](https://arxiv.org/abs/2301.02555)
 
@@ -8,3 +8,6 @@ Systems for language-guided human-robot interaction must satisfy two key desider
 
 We present an orientation adaptive controller to compensate for the effects of highly constrained environments on continuum manipulator actuation. A transformation matrix updated using optimal estimation techniques from optical flow measurements captured by the distal camera is composed with any Jacobian estimation or kinematic model to compensate for these effects. By utilizing domain knowledge to define the structure of this matrix, fewer parameters need to be estimated and a stable controller can be guaranteed. The algorithm is tested on a custom robotic catheter and convergence is shown both empirically and theoretically.
 
+### [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/abs/2102.12321)
+
+For machine agents to successfully interact with humans in real-world settings, they will need to develop an understanding of human mental life. Intuitive psychology, the ability to reason about hidden mental variables that drive observable actions, comes naturally to people: even pre-verbal infants can tell agents from objects, expecting agents to act efficiently to achieve goals given constraints. Despite recent interest in machine agents that reason about other agents, it is not clear if such agents learn or hold the core psychology principles that drive human reasoning. Inspired by cognitive development studies on intuitive psychology, we present a benchmark consisting of a large dataset of procedurally generated 3D animations, AGENT (Action, Goal, Efficiency, coNstraint, uTility), structured around four scenarios (goal preferences, action efficiency, unobserved constraints, and cost-reward trade-offs) that probe key concepts of core intuitive psychology. We validate AGENT with human-ratings, propose an evaluation protocol emphasizing generalization, and compare two strong baselines built on Bayesian inverse planning and a Theory of Mind neural network. Our results suggest that to pass the designed tests of core intuitive psychology at human levels, a model must acquire or have built-in representations of how agents plan, combining utility computations and core knowledge of objects and physics.

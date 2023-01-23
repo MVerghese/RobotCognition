@@ -53,7 +53,7 @@ Click each area to see a list of relevant papers
     - Learning from large offline datasets
     - Learning from demonstration
 
-### [Prior Knowledge](Prior_Knowledge.md)
+### [Prior Experiences](Prior_Experiences.md)
 
 - How should robots learn from prior experiences?
 - What does robot memory look like?

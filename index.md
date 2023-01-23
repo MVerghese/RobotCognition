@@ -61,7 +61,7 @@ Click each area to see a list of relevant papers
     - Reinforcement learning
     - Memory-based approaches
 
-### [Communication](Communication.md)
+### [Coordination](Coordination.md)
 
 - How should robots effectively communicate with humans?
 - How should robots effectively communicate with other robots?

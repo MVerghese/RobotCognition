@@ -28,37 +28,27 @@ This seminar course will cover a mixture of modern and classical methods for rob
 
 Click each area to see a list of relevant papers
 
-### Representations and Abstractions
-
-[Representations and Abstractions](Representations_and_Abstractions.md)
+### [Representations and Abstractions](Representations_and_Abstractions.md)
 
 - How should robots represent their environment
 - How should robots represent their actions and policies
 - What abstractions can robots make
 
-### Planning and Reasoning
-
-[Planning and Reasoning](Planning_and_Reasoning.md)
+### [Planning and Reasoning](Planning_and_Reasoning.md)
 
 - How can robots plan a series of actions to complete a task
 
-### External Knowledge
-
-[External Knowledge](External_Knowledge.md)
+### [External Knowledge](External_Knowledge.md)
 
 - How can robots leverage cultural knowledge
 - How can robots leverage large offline datasets
 
-### Prior Experiences
-
-[Prior Knowledge](Prior_Knowledge.md)
+### [Prior Knowledge](Prior_Knowledge.md)
 
 - How should robots learn from prior experiences
 - What does robot memory look like
 
-### Communication
-
-[Communication](Communication.md)
+### [Communication](Communication.md)
 
 - How should robots effectively communicate with humans
 - How should robots effectively communicate with other robots

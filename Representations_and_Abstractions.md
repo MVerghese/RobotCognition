@@ -28,3 +28,7 @@ We study how visual representations pre-trained on diverse human video data can 
 ### [Real-World Robot Learning with Masked Visual Pre-training](https://arxiv.org/abs/2210.03109)
 
 In this work, we explore self-supervised visual pre-training on images from diverse, in-the-wild videos for real-world robotic tasks. Like prior work, our visual representations are pre-trained via a masked autoencoder (MAE), frozen, and then passed into a learnable control module. Unlike prior work, we show that the pre-trained representations are effective across a range of real-world robotic tasks and embodiments. We find that our encoder consistently outperforms CLIP (up to 75%), supervised ImageNet pre-training (up to 81%), and training from scratch (up to 81%). Finally, we train a 307M parameter vision transformer on a massive collection of 4.5M images from the Internet and egocentric videos, and demonstrate clearly the benefits of scaling visual pre-training for robot learning.
+
+### [On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline](https://arxiv.org/abs/2212.05749)
+
+We revisit a simple Learning-from-Scratch baseline for visuo-motor control that uses data augmentation and a shallow ConvNet. We find that this baseline has competitive performance with recent methods that leverage frozen visual representations trained on large-scale vision datasets.

@@ -22,6 +22,12 @@ Tuesday, Thursday 7:00-8:20pm
 
 [Zoom](https://cmu.zoom.us/j/99437954829?pwd=L2FEME1hRnQ1cEUyR1c0T2QwRWpMZz09) (See Piazza for password)
 
+[Paper Presentation Signups](https://docs.google.com/spreadsheets/d/10RE4KiY3ZumaqzCZBNk6CT7m3wucn7s-S0a8OULHnuQ/edit?usp=sharing)
+
+## Announcements:
+- 1/24: Robot Cognition is going remote! We will still be at the same time, use the [Zoom](https://cmu.zoom.us/j/99437954829?pwd=L2FEME1hRnQ1cEUyR1c0T2QwRWpMZz09) link to attend.
+- 1/24: Links to paper signups are posted. Presentation slots highlighted in green are availible. Note some slots already have assigned papers, while other slots are for you to present a paper of your choice. See the list of papers for options, or contact us if you would like to present a paper not on the list!
+
 ## Course Description:
 
 This seminar course will cover a mixture of modern and classical methods for robot cognition. We will review papers related to task planning and control using both symbolic and numeric methods. The goal of this course is to give students an overview of the current state of research on robot cognition.

@@ -14,7 +14,7 @@ Tuesday, Thursday 7:00-8:20pm
 
 ## Location:
 
-Newell-Simon Hall 3002
+~~Newell-Simon Hall 3002~~ [Zoom](https://cmu.zoom.us/j/99437954829?pwd=L2FEME1hRnQ1cEUyR1c0T2QwRWpMZz09)
 
 ## Quick Links:
 

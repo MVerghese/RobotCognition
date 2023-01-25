@@ -26,7 +26,7 @@ Tuesday, Thursday 7:00-8:20pm
 
 ## Announcements:
 - 1/24: Robot Cognition is going remote! We will still be at the same time, use the [Zoom](https://cmu.zoom.us/j/99437954829?pwd=L2FEME1hRnQ1cEUyR1c0T2QwRWpMZz09) link to attend.
-- 1/24: The link to [paper presentation signups](https://docs.google.com/spreadsheets/d/10RE4KiY3ZumaqzCZBNk6CT7m3wucn7s-S0a8OULHnuQ/edit?usp=sharing) is posted. Presentation slots highlighted in green are availible. Note some slots already have assigned papers, while other slots are for you to present a paper of your choice. See the list of papers for options, or contact us if you would like to present a paper not on the list!
+- 1/24: The link to [paper presentation signups](https://docs.google.com/spreadsheets/d/10RE4KiY3ZumaqzCZBNk6CT7m3wucn7s-S0a8OULHnuQ/edit?usp=sharing) is posted. Presentation slots highlighted in green are available. Note some slots already have assigned papers, while other slots are for you to present a paper of your choice. See the list of papers for options, or contact us if you would like to present a paper not on the list!
 
 ## Course Description:
 
